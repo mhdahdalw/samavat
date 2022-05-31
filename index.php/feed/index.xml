@@ -9,8 +9,8 @@
 
 <channel>
 	<title>samavat</title>
-	<atom:link href="/index.php/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="https://mhdahdalw.github.io/samavat/index.php/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mhdahdalw.github.io/samavat</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Tue, 31 May 2022 12:02:07 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=6.0</generator>
 	<item>
 		<title>Hello world!</title>
-		<link>/index.php/2022/05/31/hello-world/</link>
-					<comments>/index.php/2022/05/31/hello-world/#comments</comments>
+		<link>https://mhdahdalw.github.io/samavat/index.php/2022/05/31/hello-world/</link>
+					<comments>https://mhdahdalw.github.io/samavat/index.php/2022/05/31/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[samavat]]></dc:creator>
 		<pubDate>Tue, 31 May 2022 12:02:07 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=1</guid>
+		<guid isPermaLink="false">https://mhdahdalw.github.io/samavat/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/index.php/2022/05/31/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://mhdahdalw.github.io/samavat/index.php/2022/05/31/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

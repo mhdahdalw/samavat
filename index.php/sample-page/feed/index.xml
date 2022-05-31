@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Sample Page	</title>
-	<atom:link href="/index.php/sample-page/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="https://mhdahdalw.github.io/samavat/index.php/sample-page/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mhdahdalw.github.io/samavat</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Tue, 31 May 2022 12:02:07 +0000</lastBuildDate>
 	<sy:updatePeriod>
